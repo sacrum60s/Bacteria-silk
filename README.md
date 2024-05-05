@@ -7,4 +7,4 @@ Tensile properties of spider MA silk after interaction with bacteria and broth o
 •	Treatment - receiving bacterial treatment (T) or no (C)
 •	Bacteria - bacteria species (L3 - Microbacterium, PL4 - Novosphingobium)
 •	Broth – PBS, CFN (full nutrient w/o carbon), NFG (full nutrient w/o nitrogen)
-•	Tensile parameters - thread diameter (um), Young's Modulus (GPa), toughness (GPa), maximum strain (mm/mm) and stress at the break (GPa)
+•	Tensile parameters - thread diameter (um), Young's Modulus (GPa), toughness (MJ/m³), maximum strain (mm/mm) and stress at the break (MPa)
